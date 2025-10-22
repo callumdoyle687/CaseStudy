@@ -1,14 +1,14 @@
 Nature of enterprise – Case study 
-Topic: Mobile & Portable Computing.
+Topic: Mobile & Portable Computing >> "Mobile Devices & Hardware"
 
 our case study MUST include all of the following sections: 
 
-1- Introduction - Context, significance, statement, viewpoint selection 
-2- Historical Development - Timeline, key figures, major milestones 
-3- First Viewpoint Analysis - Detailed examination through chosen lens 
-4- Second Viewpoint Analysis - Contrasting perspective with equal depth 
-5- Ethical Reflection & Improvements - Critical evaluation and solutions 
-6- Conclusion - Summary and broader implications 
+1- Introduction - Context, significance, statement, viewpoint selection (everyone)
+2- Historical Development - Timeline, key figures, major milestones (Haya)
+3- First Viewpoint Analysis - Detailed examination through chosen lens (jonathan)
+4- Second Viewpoint Analysis - Contrasting perspective with equal depth (callum)
+5- Ethical Reflection & Improvements - Critical evaluation and solutions (sarah)
+6- Conclusion - Summary and broader implications (everyone)
 7- References 
 
 Word count: 3000-3500 words (excluding references) 
