@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 # Nature of enterprise – Case study #
 ## Topic: Mobile & Portable Computing >> "Mobile Devices & Hardware" ##
+=======
+# Nature of enterprise – Case study 
+## Topic: Mobile & Portable Computing >> "Mobile Devices & Hardware"
+>>>>>>> cf3d14636f8589447a8a6d0e137ce0dcbf282847
 
 our case study MUST include all of the following sections: 
 
