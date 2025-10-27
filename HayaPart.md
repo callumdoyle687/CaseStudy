@@ -4,6 +4,7 @@
   The next significant development in portable devices was the introduction of smartphones, which combined the functionality of a PDA with that of a mobile phone.
 
   **So, when were mobile phones invented?**
+  
   The history of mobile phones, and particularly smartphones, go all the way back to 1908 when USA patent was issued in Kentucky for wireless telephone.
   Mobile phones were invented as early as the 1940s when engineers working at AT&T developed cells for mobile phone base stations.
   The very first mobile phones were not really mobile phones at all. They were two-way radios that allowed people like taxi drivers and the emergency services to communicate.
