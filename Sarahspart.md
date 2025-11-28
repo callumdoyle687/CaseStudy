@@ -1,5 +1,5 @@
 ## Ethical Reflection and Improvement
- 
+---------------------------------------------------------------------------
 Mobile and portable computing have quickly become one of the most effective technological advances in the 21 st century. 
 Smartphones, laptops, tablets, and wearables(earbuds) are some of the devices that have changed the way individuals communicate, work, learn, and obtain information. 
 However, the very presence of such devices also creates serious ethical concerns. 
@@ -7,7 +7,7 @@ The ethical implications of mobile and portable computing should be considered b
  The challenges in every area are demanding and demand a significant amount of reflection and its to ensure that the technological advancement does not go in opposition to human well-being and responsible innovation.
  
 ## Privacy and Data Collection
- 
+----------------------------------------------------------------------------
 Personal privacy erosion is one of the most serious ethical concerns of mobile and portable computing. 
 The modern devices are continuously collecting huge volumes of sensitive data associated with GPS positioning, history, health records, face recognition records, among others, as well as communication trends. 
 The default permission settings in most of the applications permit data harvesting in the background without the full awareness of the users.
@@ -18,8 +18,8 @@ Frequently, the users may not understand what data is being recorded and how the
 Business-wise, surveillance-filtered business models are attractive to businesses, and users, in turn, cannot do much to ensure their online presence remains safe.
  Privacy is more than a technical issue but it is also a human right that safeguards individuality and freedom ethically.
  
-### Improvements
- 
+## **Improvements**
+
 The philosophy of privacy-by-design should, then, be implemented by companies, including data protection in the initial phase of the system development. 
 Mobile operating system may also introduce simplified and user-friendly dashboards that display real-time data tracking and permissions; therefore, it would be very easy to make users opt out of unneeded data collection.
  The governments ought to strengthen the application of their laws on privacy to ensure that every firm is subjected to do business within a transparent and ethical setting. 
@@ -27,13 +27,13 @@ Open algorithms, more open privacy policies, and limitations on redundant data s
  
 
 ## Digital addiction:
- 
+----------------------------------------------------------------------------
 The second important ethical question is related to digital addiction, which is becoming a topic of a public health concern.
  As DataReportal (2024) indicates, the average daily time in front of the digital screen is already more than 7 hours all over the world, and the majority of the screen time is spent on mobile phones. 
 The purposeful persuasive design strategies of infinite scrolling, push notifications, streak rewards, and personalized content loops are used in many of the applications accessible on mobile devices, such as social media applications, games, and entertainment platforms. 
 These features are tailored in such a way that the engagement is maximum, which normally results in compulsive behaviors, limited attention span, sleeping disturbances, and extreme anxiety.
  
-### Improvements
+## **Improvements**
  
 To promote more healthy digital habits, organizations need to incorporate digital wellbeing tools directly into devices. 
 They are screen-time monitoring, application usage, focus mode, and downtime scheduling. 
@@ -42,12 +42,12 @@ Different schools, colleges and places of work can also develop digital literacy
 These changes would lead to a significantly higher level of self-awareness concerning their relationship with technology and decrease the possibility of long-term cognitive damage.
  
 ## E-Waste and environmental Sustainability.
- 
+----------------------------------------------------------------------------
 The use of mobile and portable computing has also played a significant role in causing the e-waste crisis across the world. 
 The United Nations estimates that over 50 million tonnes of electronic waste are produced annually and mobile devices form part of the most rapidly growing categories. 
 There are numerous products changed every two or three years due to battery deterioration, lack of software updates, or consumer pressure to adopt the latest model. As Smartphones are manufactured using toxic substances like lead, mercury and lithium, poor disposal pollutes the soil and leads to pollution and health impacts in the society where e-wastes are disposed.
  
-### Improvements
+## **Improvements**
  
 In order to reduce the environmental impact, companies are asked to concentrate on modular and serviceable designs so that when their batteries, screens, and internal parts need a replacement, the users can discard them individually rather than the entire device. Economic policies to promote right-to-repair, longer warranties and software support would make devices last many times more. 
 Companies could work with more environmentally friendly materials, reduce their packaging paper, and simplify the processes of recycling of internal components. 
