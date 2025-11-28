@@ -33,7 +33,7 @@ The second important ethical question is related to digital addiction, which is 
 The purposeful persuasive design strategies of infinite scrolling, push notifications, streak rewards, and personalized content loops are used in many of the applications accessible on mobile devices, such as social media applications, games, and entertainment platforms. 
 These features are tailored in such a way that the engagement is maximum, which normally results in compulsive behaviors, limited attention span, sleeping disturbances, and extreme anxiety.
  
-###Improvements
+### Improvements
  
 To promote more healthy digital habits, organizations need to incorporate digital wellbeing tools directly into devices. 
 They are screen-time monitoring, application usage, focus mode, and downtime scheduling. 
