@@ -8,7 +8,7 @@ However, the very presence of such devices also creates serious ethical concerns
 
 The ethical implications of mobile and portable computing should be considered based on the long-term effects of using these types of devices with references to the privacy concerns, collection of data, digital dependency, and environmental issues of e-waste.
 
- The challenges in every area are demanding a significant amount of reflection and its to ensure that the technological advancement does not go againts to human well-being and responsible innovation.
+ The challenges in every area are demanding a significant amount of reflection and its to ensure that the technological advancement does not go againts to human well being and responsible innovation.
  
 ## Privacy and Data Collection
 ----------------------------------------------------------------------------
